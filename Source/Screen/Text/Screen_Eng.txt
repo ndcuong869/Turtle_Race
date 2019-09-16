@@ -1,0 +1,17 @@
+Play
+Options
+Credits
+Dragon
+Dog
+Ninja
+Racoon
+Robot
+Please choose Screen size
+Please choose Characters
+Small
+Medium
+Large
+Back
+Please fill in your name
+Please choose race line
+Enter name
